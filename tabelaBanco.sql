@@ -7,5 +7,3 @@ CREATE TABLE produto (
     nome VARCHAR(100) NOT NULL,
     quantidade INT NOT NULL
 );
-
-SELECT * FROM produto;
